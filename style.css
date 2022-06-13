@@ -28,3 +28,31 @@ h1 {
     color: #36413E;
     font-size: 70px;
 }
+
+
+
+
+.section1 {
+    width: 100vw;
+    height: 855px;
+    background-image: url(./img/Banner\ Image.png);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    padding-top: 600px;
+}
+
+.about {
+    width: 706px;
+    height: 187px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+p {
+    font-size: 40px;
+}
